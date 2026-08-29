@@ -1,0 +1,64 @@
+about:
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  license: MPL-2.0
+  homepage: https://opentofu.org
+  head: 1d92053
+  archived: false
+  latestVersion: v1.13.0-beta1
+  collectedAt: 2026-08-29T07:29:23Z
+timeline:
+  created: 2023-08-16
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 29959
+  watcher: 140
+  fork: 1341
+  release: 102
+  contributor: 210
+  pullRequest: 366
+  issue: 1769
+language:
+  Go: 16921691
+  MDX: 1502043
+  HCL: 84963
+  Shell: 18401
+  Makefile: 9823
+  Python: 2794
+  Dockerfile: 2584
+  PowerShell: 1728
+  JavaScript: 1342
+totalLine: 18545369
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 3
+    mergedPR: 73
+    openPR: 8
+    closedIssue: 19
+    openIssue: 9
+    commit: 105
+  last90d:
+    since: 2026-05-31
+    release: 12
+    mergedPR: 195
+    openPR: 16
+    closedIssue: 83
+    openIssue: 34
+    commit: 287
+  last180d:
+    since: 2026-03-02
+    release: 20
+    mergedPR: 382
+    openPR: 20
+    closedIssue: 177
+    openIssue: 56
+    commit: 516
+  last360d:
+    since: 2025-09-03
+    release: 36
+    mergedPR: 711
+    openPR: 28
+    closedIssue: 328
+    openIssue: 93
+    commit: 934
