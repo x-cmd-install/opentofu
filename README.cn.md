@@ -12,7 +12,7 @@ OpenTofu lets you declaratively manage your cloud infrastructure.
 x install opentofu
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **511,532** 行代码（覆盖前 5 种语言、共 **4012** 个文件）。
 
@@ -38,7 +38,7 @@ x install opentofu
 
 ## 流行度
 
-- **Star**: 30,149 · **Fork**: 1,362 · **开放 issue**: 1,779 · **贡献者**: 210
+- **Star**: 30,150 · **Fork**: 1,362 · **开放 issue**: 1,779 · **贡献者**: 210
 
 ## 累计统计
 
@@ -226,7 +226,7 @@ x install opentofu
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/opentofu) 上共有 **108** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/opentofu) 上共有 **108** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**37** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -234,7 +234,7 @@ x install opentofu
 | Homebrew | `1.12.6` | ✅ latest |
 | Fedora rawhide | `1.12.3` | ⚠️ outdated |
 | Nix unstable | `1.12.6` | ✅ latest |
-| Void | `1.12.2` | ⚠️ outdated |
+| Void | `1.12.6` | ✅ latest |
 | Alpine edge | `1.12.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.12.6` | ✅ latest |
 
@@ -247,4 +247,4 @@ opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:55:51Z._

@@ -38,7 +38,7 @@ Total: **511,532** lines of code across **4012** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,149 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
+- **Stars**: 30,150 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
 
 ## Totals (cumulative)
 
@@ -226,7 +226,7 @@ Total: **511,532** lines of code across **4012** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **108** distros on [repology.org](https://repology.org/project/opentofu). **16** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **108** distros on [repology.org](https://repology.org/project/opentofu). **17** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -234,7 +234,7 @@ Reported by **108** distros on [repology.org](https://repology.org/project/opent
 | Homebrew | `1.12.6` | ✅ latest |
 | Fedora rawhide | `1.12.3` | ⚠️ outdated |
 | Nix unstable | `1.12.6` | ✅ latest |
-| Void | `1.12.2` | ⚠️ outdated |
+| Void | `1.12.6` | ✅ latest |
 | Alpine edge | `1.12.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.12.6` | ✅ latest |
 
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:54:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:50Z._
