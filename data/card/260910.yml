@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.13.0-beta1"
   latestRelease: "v1.12.6"
   latestPrerelease: "v1.13.0-beta1"
-  collectedAt: 2026-09-10T20:53:38Z
+  collectedAt: 2026-09-10T22:55:05Z
 timeline:
   created: 2023-08-16
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-19
   lastPrerelease: 2026-08-27
 popularity:
-  star: 30149
+  star: 30150
   watcher: 146
   fork: 1362
   release: 102
@@ -91,7 +91,7 @@ total:
   commit: 33865
 ---
 path: /home/runner/.x-repo/github.com/opentofu/opentofu
-collectedAt: 2026-09-10T20:54:07Z
+collectedAt: 2026-09-10T22:55:39Z
 loc:
   Go:
     code: 444528
