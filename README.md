@@ -12,6 +12,18 @@ OpenTofu lets you declaratively manage your cloud infrastructure.
 x install opentofu
 ```
 
+## Code insight
+
+Total: **511,532** lines of code across **4012** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 444,528 | 68,960 | 62,423 | 1921 |
+| Json | 42,573 | 0 | 9 | 428 |
+| Hcl | 15,602 | 982 | 2,779 | 1604 |
+| Protobuf | 7,825 | 3,556 | 1,769 | 24 |
+| Sh | 437 | 140 | 104 | 35 |
+
 ## Source
 
 - **Upstream**: <https://github.com/opentofu/opentofu>
@@ -23,6 +35,25 @@ x install opentofu
 - **Latest**: `v1.13.0-beta1` (2026-08-19)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 164
+
+## Popularity
+
+- **Stars**: 30,149 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
+
+## Totals (cumulative)
+
+- **Releases**: 102 · **Merged PRs**: 2240 · **Open PRs**: 48 · **Closed issues**: 1507 · **Open issues**: 272 · **Commits**: 33865
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 73 | 8 | 16 | 11 | 91 |
+| last60d | 2026-07-12 | 7 | 125 | 14 | 38 | 17 | 158 |
+| 90d | 2026-06-12 | 12 | 180 | 14 | 56 | 29 | 247 |
+| last180d | 2026-03-14 | 20 | 371 | 18 | 170 | 52 | 488 |
+| 360d | 2025-09-15 | 34 | 722 | 25 | 327 | 87 | 889 |
+| last720d | 2024-09-20 | 73 | 1383 | 47 | 654 | 186 | 1578 |
 
 ## Release assets
 
@@ -193,33 +224,19 @@ x install opentofu
 | [tofu_1.12.6_windows_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_windows_amd64.zip.pem) | 3.3 KiB | `native/win/x64` |
 | [tofu_1.12.6_windows_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_windows_amd64.zip.sig) | 96 B | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 30,149 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
+Reported by **108** distros on [repology.org](https://repology.org/project/opentofu). **16** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 102 · **Merged PRs**: 2240 · **Open PRs**: 47 · **Closed issues**: 1507 · **Open issues**: 272 · **Commits**: 33865
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 73 | 7 | 16 | 11 | 91 |
-| 90d | 2026-06-12 | 12 | 180 | 13 | 56 | 29 | 247 |
-| 360d | 2025-09-15 | 34 | 722 | 24 | 327 | 87 | 889 |
-
-## Code size
-
-Total: **511,532** lines of code across **4012** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 444,528 | 68,960 | 62,423 | 1921 |
-| Json | 42,573 | 0 | 9 | 428 |
-| Hcl | 15,602 | 982 | 2,779 | 1604 |
-| Protobuf | 7,825 | 3,556 | 1,769 | 24 |
-| Sh | 437 | 140 | 104 | 35 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.12.1` | ⚠️ outdated |
+| Homebrew | `1.12.6` | ✅ latest |
+| Fedora rawhide | `1.12.3` | ⚠️ outdated |
+| Nix unstable | `1.12.6` | ✅ latest |
+| Void | `1.12.2` | ⚠️ outdated |
+| Alpine edge | `1.12.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.12.6` | ✅ latest |
 
 ## Improve this data
 
@@ -230,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:54:15Z._
