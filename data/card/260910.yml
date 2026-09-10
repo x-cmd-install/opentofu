@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.13.0-beta1"
   latestRelease: "v1.12.6"
   latestPrerelease: "v1.13.0-beta1"
-  collectedAt: 2026-09-10T04:58:21Z
+  collectedAt: 2026-09-10T16:35:03Z
 timeline:
   created: 2023-08-16
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-19
   lastPrerelease: 2026-08-27
 popularity:
-  star: 30142
+  star: 30149
   watcher: 146
-  fork: 1360
+  fork: 1362
   release: 102
   contributor: 210
-  pullRequest: 2604
+  pullRequest: 2605
   issue: 1779
 language:
   Go: 16829474
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-11
     release: 3
     mergedPR: 73
-    openPR: 6
+    openPR: 7
     closedIssue: 16
     openIssue: 11
     commit: 91
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-12
     release: 7
     mergedPR: 125
-    openPR: 12
+    openPR: 13
     closedIssue: 38
     openIssue: 17
     commit: 158
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-12
     release: 12
     mergedPR: 180
-    openPR: 12
+    openPR: 13
     closedIssue: 56
     openIssue: 29
     commit: 247
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-14
     release: 20
     mergedPR: 371
-    openPR: 16
+    openPR: 17
     closedIssue: 170
     openIssue: 52
     commit: 488
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-15
     release: 34
     mergedPR: 722
-    openPR: 23
+    openPR: 24
     closedIssue: 327
     openIssue: 87
     commit: 889
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-20
     release: 73
     mergedPR: 1383
-    openPR: 45
+    openPR: 46
     closedIssue: 654
     openIssue: 186
     commit: 1578
 total:
   release: 102
   mergedPR: 2240
-  openPR: 46
+  openPR: 47
   closedIssue: 1507
   openIssue: 272
   commit: 33865
 ---
 path: /home/runner/.x-repo/github.com/opentofu/opentofu
-collectedAt: 2026-09-10T04:58:48Z
+collectedAt: 2026-09-10T16:35:35Z
 loc:
   Go:
     code: 444528
