@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 33196132,
       "digest": "sha256:94c16b85f1a6a082f48777fca932e68712d2cdc9e18c3e88d58c5dfad847c38d",
-      "download_count": 137,
+      "download_count": 138,
       "created_at": "2026-08-19T11:32:25Z",
       "updated_at": "2026-08-19T11:32:27Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_386.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:6ecb66ae143b9f20f7b998e95887147f750ad614abdbf37f5f9191c06ac17019",
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2026-08-19T11:32:33Z",
       "updated_at": "2026-08-19T11:32:33Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_386.apk.gpgsig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3344,
       "digest": "sha256:b1e428a6afb6e0d046d2ca45cd6ac4037b5fd4c44f3d738e1e1eba424ff86240",
-      "download_count": 93,
+      "download_count": 94,
       "created_at": "2026-08-19T11:32:42Z",
       "updated_at": "2026-08-19T11:32:42Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_386.apk.pem"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:a009791bb209b9e3ac845d583d58d5d4bb7aa331dd0c9cb4eb8869a8633bef0d",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2026-08-19T11:32:32Z",
       "updated_at": "2026-08-19T11:32:32Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_386.deb.gpgsig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 33235920,
       "digest": "sha256:e014b6dbcd6bad6b37307c73359aa45c1c5f915b74804d4dc54f8ee975f54f46",
-      "download_count": 191,
+      "download_count": 193,
       "created_at": "2026-08-19T11:32:24Z",
       "updated_at": "2026-08-19T11:32:26Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_386.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 36239222,
       "digest": "sha256:d63332b4e09cb142dbfb81123bf0156ede8c6a3449ce52fdcd187e53dedfe37d",
-      "download_count": 349,
+      "download_count": 351,
       "created_at": "2026-08-19T11:32:27Z",
       "updated_at": "2026-08-19T11:32:28Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_amd64.apk"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 34787888,
       "digest": "sha256:345e556f8902dde941305bf59075cf37b0d108cdb25bcc884439eec9a869c4f7",
-      "download_count": 1547,
+      "download_count": 1568,
       "created_at": "2026-08-19T11:32:24Z",
       "updated_at": "2026-08-19T11:32:25Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_amd64.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 36311408,
       "digest": "sha256:547fe4544d3091ede04478f143fbb17bb0e010999237d904bf8950ad7542848f",
-      "download_count": 1194,
+      "download_count": 1209,
       "created_at": "2026-08-19T11:32:23Z",
       "updated_at": "2026-08-19T11:32:25Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_amd64.rpm"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 32239070,
       "digest": "sha256:3d3c5d6dbfe1120deb052e0e02db363842c44445052de7832403f854a1b79e92",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-08-19T11:32:23Z",
       "updated_at": "2026-08-19T11:32:24Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_arm.deb"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 32302024,
       "digest": "sha256:4fdbd61e8d75676b633ce8e95333a9113138fd524657b6b83be256ef7bcad258",
-      "download_count": 209,
+      "download_count": 211,
       "created_at": "2026-08-19T11:32:26Z",
       "updated_at": "2026-08-19T11:32:27Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_arm64.apk"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 31162338,
       "digest": "sha256:0da8dd2d1fb2bf87e89f1a4ca92509fe5c003cdb0fbbe669439207bc015aac8f",
-      "download_count": 375,
+      "download_count": 378,
       "created_at": "2026-08-19T11:32:22Z",
       "updated_at": "2026-08-19T11:32:24Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_arm64.deb"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 32243332,
       "digest": "sha256:93ea21d330d82a694b0503efe9012650a8b032798efc4130ee68be1d9e804f50",
-      "download_count": 113,
+      "download_count": 114,
       "created_at": "2026-08-19T11:32:25Z",
       "updated_at": "2026-08-19T11:32:27Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_arm64.rpm"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 35383732,
       "digest": "sha256:44bb1855f372f17f365fb94517906e78da5001da10f4c98de57a39bf982f3a92",
-      "download_count": 365,
+      "download_count": 374,
       "created_at": "2026-08-19T11:32:11Z",
       "updated_at": "2026-08-19T11:32:12Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_darwin_amd64.tar.gz"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 35385816,
       "digest": "sha256:166388e5feed47e107e11721b6366bf91d21e47eccbced75f3cbe0c7184ffd9b",
-      "download_count": 305,
+      "download_count": 307,
       "created_at": "2026-08-19T11:32:19Z",
       "updated_at": "2026-08-19T11:32:20Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_darwin_amd64.zip"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 32630319,
       "digest": "sha256:f958ec5e511063be9feb180ca015a4cb7977566a9cf6a8550bba8c2a9b5aba74",
-      "download_count": 4057,
+      "download_count": 4095,
       "created_at": "2026-08-19T11:32:14Z",
       "updated_at": "2026-08-19T11:32:15Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_darwin_arm64.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 32632656,
       "digest": "sha256:e083ee43790ab9e19ad66d9933e24a7244a1412e1d5728f37999ae2163fdac95",
-      "download_count": 5024,
+      "download_count": 5110,
       "created_at": "2026-08-19T11:32:19Z",
       "updated_at": "2026-08-19T11:32:20Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_darwin_arm64.zip"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 34604140,
       "digest": "sha256:b1628c5fe72e6608529208c67734495778953ada0ff18deaa725c1e8d2d62c57",
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2026-08-19T11:32:18Z",
       "updated_at": "2026-08-19T11:32:19Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_freebsd_amd64.zip"
@@ -3235,7 +3235,7 @@
       "state": "uploaded",
       "size": 31754780,
       "digest": "sha256:97406f2e1b5c17060617f597c032ad2c91754cd696e66be0c400be5887143303",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-08-19T11:32:12Z",
       "updated_at": "2026-08-19T11:32:14Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_386.tar.gz"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 34646566,
       "digest": "sha256:50a6106fa4de523d09c87af85f3db1dd47535fc005727fdca6852146476b88ec",
-      "download_count": 101926,
+      "download_count": 103325,
       "created_at": "2026-08-19T11:32:15Z",
       "updated_at": "2026-08-19T11:32:16Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_amd64.tar.gz"
@@ -3595,7 +3595,7 @@
       "state": "uploaded",
       "size": 3352,
       "digest": "sha256:643c57e87284939b9700c8dee1f49818fa990d38351e4700245fdc92b9c924d1",
-      "download_count": 13961,
+      "download_count": 14245,
       "created_at": "2026-08-19T11:32:36Z",
       "updated_at": "2026-08-19T11:32:36Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_amd64.tar.gz.pem"
@@ -3631,7 +3631,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:769fcc06bfa8466b75010429deeb8c958a58c36df90740c85b23da0cc6d8386b",
-      "download_count": 13962,
+      "download_count": 14246,
       "created_at": "2026-08-19T11:32:36Z",
       "updated_at": "2026-08-19T11:32:36Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_amd64.tar.gz.sig"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 34644365,
       "digest": "sha256:5dc43da4f750f33873dc25e94587128709e819e544b7be9016b255316153c3a8",
-      "download_count": 571772,
+      "download_count": 578154,
       "created_at": "2026-08-19T11:32:18Z",
       "updated_at": "2026-08-19T11:32:19Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_amd64.zip"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:025b18572336f04c6cf8f590fa02640533482951c1a0bdc1796b6cffeee39e22",
-      "download_count": 4185,
+      "download_count": 4190,
       "created_at": "2026-08-19T11:32:30Z",
       "updated_at": "2026-08-19T11:32:30Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_amd64.zip.gpgsig"
@@ -4099,7 +4099,7 @@
       "state": "uploaded",
       "size": 31043841,
       "digest": "sha256:9bd0228a81bcd0c88f7045c74378f45a815779f19897191dff7d9efba9976b9e",
-      "download_count": 7055,
+      "download_count": 7130,
       "created_at": "2026-08-19T11:32:13Z",
       "updated_at": "2026-08-19T11:32:14Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_arm64.tar.gz"
@@ -4171,7 +4171,7 @@
       "state": "uploaded",
       "size": 3352,
       "digest": "sha256:c51e75684dfde7f89f0ccf763ace878d7ec362fceda9ac1431e8ae8dc7b91b48",
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2026-08-19T11:32:34Z",
       "updated_at": "2026-08-19T11:32:34Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_arm64.tar.gz.pem"
@@ -4243,7 +4243,7 @@
       "state": "uploaded",
       "size": 31040981,
       "digest": "sha256:e573979ba68a17fe7b881752051a694a7efcd970e39521f6a25775197861ed4d",
-      "download_count": 80458,
+      "download_count": 81337,
       "created_at": "2026-08-19T11:32:21Z",
       "updated_at": "2026-08-19T11:32:22Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_linux_arm64.zip"
@@ -4963,7 +4963,7 @@
       "state": "uploaded",
       "size": 3730,
       "digest": "sha256:6988e0cb8f4e9ebfa3b0999e44841549741b22d9b38873cb5b89074f1cddcb1c",
-      "download_count": 452690,
+      "download_count": 457927,
       "created_at": "2026-08-19T11:32:27Z",
       "updated_at": "2026-08-19T11:32:27Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_SHA256SUMS"
@@ -4999,7 +4999,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:5ab5d1f5d0a98534fa7204dfc89aece37ec2973c53aba35e04d8a87097d4b689",
-      "download_count": 193638,
+      "download_count": 196128,
       "created_at": "2026-08-19T11:32:33Z",
       "updated_at": "2026-08-19T11:32:34Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_SHA256SUMS.gpgsig"
@@ -5035,7 +5035,7 @@
       "state": "uploaded",
       "size": 3352,
       "digest": "sha256:9d1b7905d07cf7e7cac42197f1dd36bc424f16a530c1e4de7cc3baf9e0fcb1f7",
-      "download_count": 60647,
+      "download_count": 61416,
       "created_at": "2026-08-19T11:32:43Z",
       "updated_at": "2026-08-19T11:32:43Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_SHA256SUMS.pem"
@@ -5071,7 +5071,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:94258620139d5d0be0f70fc4eff71fef175b13c4482b1216eaf4bd9437f245df",
-      "download_count": 60526,
+      "download_count": 61291,
       "created_at": "2026-08-19T11:32:42Z",
       "updated_at": "2026-08-19T11:32:43Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_SHA256SUMS.sig"
@@ -5395,7 +5395,7 @@
       "state": "uploaded",
       "size": 33488187,
       "digest": "sha256:fed3bff9c96fbd25f567b103d1872466213e8381f328d62b9ac2c87c182873a9",
-      "download_count": 117,
+      "download_count": 118,
       "created_at": "2026-08-19T11:32:16Z",
       "updated_at": "2026-08-19T11:32:17Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_windows_386.tar.gz"
@@ -5683,7 +5683,7 @@
       "state": "uploaded",
       "size": 35465501,
       "digest": "sha256:bcbcd9ca744af6c4053e2d5e75dae79ff33ad7dc38d45e1233e693d096284538",
-      "download_count": 2747,
+      "download_count": 2772,
       "created_at": "2026-08-19T11:32:14Z",
       "updated_at": "2026-08-19T11:32:16Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_windows_amd64.tar.gz"
@@ -5827,7 +5827,7 @@
       "state": "uploaded",
       "size": 35467196,
       "digest": "sha256:0d1421721cf9ec24b41b698a9620dda218d47fa7e76ac3dc15cdbc13bd79b0bb",
-      "download_count": 3867,
+      "download_count": 3895,
       "created_at": "2026-08-19T11:32:18Z",
       "updated_at": "2026-08-19T11:32:20Z",
       "browser_download_url": "https://github.com/opentofu/opentofu/releases/download/v1.12.6/tofu_1.12.6_windows_amd64.zip"
