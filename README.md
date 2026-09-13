@@ -38,7 +38,7 @@ Total: **511,532** lines of code across **4012** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,158 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
+- **Stars**: 30,165 · **Forks**: 1,362 · **Open issues**: 1,779 · **Contributors**: 210
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **511,532** lines of code across **4012** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 58 | 7 | 15 | 11 | 91 |
-| last60d | 2026-07-14 | 5 | 122 | 14 | 35 | 16 | 158 |
-| 90d | 2026-06-14 | 10 | 180 | 14 | 54 | 29 | 247 |
-| last180d | 2026-03-16 | 20 | 366 | 18 | 170 | 52 | 488 |
-| 360d | 2025-09-17 | 34 | 710 | 25 | 323 | 86 | 889 |
-| last720d | 2024-09-22 | 73 | 1381 | 47 | 654 | 186 | 1576 |
+| 30d | 2026-08-14 | 3 | 54 | 7 | 15 | 11 | 60 |
+| last60d | 2026-07-15 | 5 | 116 | 14 | 34 | 16 | 143 |
+| 90d | 2026-06-15 | 10 | 171 | 14 | 53 | 29 | 218 |
+| last180d | 2026-03-17 | 20 | 358 | 18 | 169 | 52 | 450 |
+| 360d | 2025-09-18 | 34 | 709 | 25 | 323 | 86 | 870 |
+| last720d | 2024-09-23 | 73 | 1380 | 47 | 653 | 186 | 1576 |
 
 ## Release assets
 
@@ -226,7 +226,7 @@ Total: **511,532** lines of code across **4012** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **107** distros on [repology.org](https://repology.org/project/opentofu). **18** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+Reported by **107** distros on [repology.org](https://repology.org/project/opentofu). **19** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:50:23Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:08:39Z._
