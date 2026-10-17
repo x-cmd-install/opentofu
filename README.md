@@ -38,22 +38,22 @@ Total: **513,128** lines of code across **4015** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,509 · **Forks**: 1,393 · **Open issues**: 1,845 · **Contributors**: 211
+- **Stars**: 30,520 · **Forks**: 1,395 · **Open issues**: 1,846 · **Contributors**: 211
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 2298 · **Open PRs**: 58 · **Closed issues**: 1539 · **Open issues**: 306 · **Commits**: 33929
+- **Releases**: 107 · **Merged PRs**: 2298 · **Open PRs**: 62 · **Closed issues**: 1539 · **Open issues**: 307 · **Commits**: 33929
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 5 | 52 | 14 | 26 | 37 | 55 |
-| last60d | 2026-08-17 | 8 | 108 | 19 | 39 | 47 | 130 |
-| 90d | 2026-07-18 | 10 | 172 | 24 | 62 | 52 | 213 |
-| last180d | 2026-04-19 | 23 | 334 | 28 | 163 | 77 | 427 |
-| 360d | 2025-10-21 | 39 | 697 | 35 | 324 | 113 | 844 |
-| last720d | 2024-10-26 | 75 | 1393 | 54 | 651 | 217 | 1610 |
+| 30d | 2026-09-17 | 5 | 49 | 18 | 26 | 38 | 55 |
+| last60d | 2026-08-18 | 8 | 103 | 23 | 39 | 48 | 130 |
+| 90d | 2026-07-19 | 10 | 172 | 28 | 62 | 53 | 213 |
+| last180d | 2026-04-20 | 23 | 334 | 32 | 163 | 78 | 427 |
+| 360d | 2025-10-22 | 39 | 692 | 39 | 324 | 112 | 844 |
+| last720d | 2024-10-27 | 75 | 1393 | 58 | 651 | 218 | 1610 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:40:48Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:33:08Z._
