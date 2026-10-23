@@ -14,13 +14,13 @@ x install opentofu
 
 ## Code insight
 
-Total: **513,897** lines of code across **4022** files in the top 5 languages.
+Total: **514,577** lines of code across **4028** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 446,755 | 69,075 | 62,858 | 1923 |
+| Go | 447,416 | 69,190 | 62,960 | 1926 |
 | Json | 42,628 | 0 | 9 | 428 |
-| Hcl | 15,684 | 984 | 2,791 | 1612 |
+| Hcl | 15,703 | 984 | 2,793 | 1615 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
 | Sh | 437 | 140 | 104 | 35 |
 
@@ -33,27 +33,27 @@ Total: **513,897** lines of code across **4022** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.2` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 172
 
 ## Popularity
 
-- **Stars**: 30,568 · **Forks**: 1,402 · **Open issues**: 1,853 · **Contributors**: 212
+- **Stars**: 30,584 · **Forks**: 1,405 · **Open issues**: 1,855 · **Contributors**: 212
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 2310 · **Open PRs**: 62 · **Closed issues**: 1543 · **Open issues**: 310 · **Commits**: 33936
+- **Releases**: 109 · **Merged PRs**: 2312 · **Open PRs**: 62 · **Closed issues**: 1543 · **Open issues**: 312 · **Commits**: 33941
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 57 | 17 | 24 | 42 | 51 |
-| last60d | 2026-08-23 | 8 | 107 | 23 | 38 | 53 | 122 |
-| 90d | 2026-07-24 | 10 | 169 | 26 | 63 | 56 | 209 |
-| last180d | 2026-04-25 | 25 | 344 | 29 | 163 | 82 | 428 |
-| 360d | 2025-10-27 | 40 | 693 | 39 | 323 | 114 | 836 |
-| last720d | 2024-11-01 | 77 | 1395 | 58 | 648 | 220 | 1608 |
+| 30d | 2026-09-23 | 6 | 58 | 17 | 23 | 44 | 56 |
+| last60d | 2026-08-24 | 8 | 108 | 23 | 35 | 55 | 127 |
+| 90d | 2026-07-25 | 10 | 171 | 26 | 63 | 58 | 214 |
+| last180d | 2026-04-26 | 25 | 346 | 29 | 163 | 84 | 433 |
+| 360d | 2025-10-28 | 40 | 691 | 39 | 322 | 116 | 841 |
+| last720d | 2024-11-02 | 77 | 1397 | 58 | 648 | 222 | 1613 |
 
 ## Release assets
 
@@ -232,6 +232,20 @@ Total: **513,897** lines of code across **4022** files in the top 5 languages.
 | [tofu_1.13.2_windows_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.2/tofu_1.13.2_windows_arm64.zip.pem) | 3.2 KiB | `native/win/arm64` |
 | [tofu_1.13.2_windows_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.2/tofu_1.13.2_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **110** distros on [repology.org](https://repology.org/project/opentofu). **8** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.13.1` | ⚠️ outdated |
+| Homebrew | `1.13.2` | ✅ latest |
+| Fedora rawhide | `1.12.3` | ⚠️ outdated |
+| Nix unstable | `1.13.1` | ⚠️ outdated |
+| Void | `1.13.0` | ⚠️ outdated |
+| Alpine edge | `1.13.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.13.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `opentofu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -241,4 +255,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:54:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:16Z._
