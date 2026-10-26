@@ -38,22 +38,22 @@ Total: **514,643** lines of code across **4028** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,606 · **Forks**: 1,404 · **Open issues**: 1,857 · **Contributors**: 212
+- **Stars**: 30,627 · **Forks**: 1,405 · **Open issues**: 1,857 · **Contributors**: 212
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 2313 · **Open PRs**: 63 · **Closed issues**: 1544 · **Open issues**: 313 · **Commits**: 33942
+- **Releases**: 109 · **Merged PRs**: 2313 · **Open PRs**: 64 · **Closed issues**: 1544 · **Open issues**: 313 · **Commits**: 33942
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 6 | 53 | 18 | 24 | 44 | 41 |
-| last60d | 2026-08-26 | 8 | 103 | 24 | 35 | 54 | 95 |
-| 90d | 2026-07-27 | 10 | 171 | 26 | 59 | 59 | 204 |
-| last180d | 2026-04-28 | 25 | 341 | 30 | 159 | 84 | 427 |
-| 360d | 2025-10-30 | 40 | 684 | 40 | 323 | 117 | 829 |
-| last720d | 2024-11-04 | 77 | 1392 | 59 | 646 | 223 | 1614 |
+| 30d | 2026-09-26 | 6 | 53 | 19 | 24 | 43 | 41 |
+| last60d | 2026-08-27 | 8 | 98 | 25 | 35 | 53 | 95 |
+| 90d | 2026-07-28 | 10 | 171 | 27 | 58 | 59 | 204 |
+| last180d | 2026-04-29 | 25 | 339 | 31 | 158 | 84 | 427 |
+| 360d | 2025-10-31 | 40 | 680 | 41 | 320 | 116 | 829 |
+| last720d | 2024-11-05 | 75 | 1391 | 60 | 644 | 222 | 1611 |
 
 ## Release assets
 
@@ -234,7 +234,7 @@ Total: **514,643** lines of code across **4028** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **110** distros on [repology.org](https://repology.org/project/opentofu). **11** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+Reported by **110** distros on [repology.org](https://repology.org/project/opentofu). **12** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -242,7 +242,7 @@ Reported by **110** distros on [repology.org](https://repology.org/project/opent
 | Homebrew | `1.13.2` | ✅ latest |
 | Fedora rawhide | `1.12.3` | ⚠️ outdated |
 | Nix unstable | `1.13.2` | ✅ latest |
-| Void | `1.13.0` | ⚠️ outdated |
+| Void | `1.13.2` | ✅ latest |
 | Alpine edge | `1.13.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.13.1` | ⚠️ outdated |
 
@@ -255,4 +255,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:49:32Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:56:16Z._
