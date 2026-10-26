@@ -1,9 +1,16 @@
+- repo: chocolatey
+  binname: opentofu
+  visiblename: OpenTofu
+  version: 1.12.6
+  origversion: null
+  status: outdated
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
 - repo: wakemeops
   subrepo: devops
   binname: opentofu
   visiblename: opentofu
-  version: 1.11.1
-  origversion: 1.11.1-1~ops2deb
+  version: 1.11.5
+  origversion: 1.11.5-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -199,13 +206,6 @@
   summary: Tool for building, changing and versioning infrastructure
   licenses:
     - MPL-2.0
-- repo: chocolatey
-  binname: opentofu
-  visiblename: OpenTofu
-  version: 1.12.6
-  origversion: null
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
 - repo: chocolatey
   binname: opentofu.portable
   visiblename: OpenTofu (Portable)
@@ -461,6 +461,24 @@
     - ISC
   categories:
     - app-admin
+- repo: liguros_develop
+  srcname: app-admin/opentofu
+  visiblename: app-admin/opentofu
+  version: 1.10.6
+  origversion: null
+  status: outdated
+  summary: The open source infrastructure as code tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - MPL-2.0
+    - MIT
+    - ISC
+  categories:
+    - app-admin
 - repo: gentoo
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -607,24 +625,6 @@
   version: 1.9.1
   origversion: null
   status: legacy
-  summary: The open source infrastructure as code tool
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - MPL-2.0
-    - MIT
-    - ISC
-  categories:
-    - app-admin
-- repo: liguros_develop
-  srcname: app-admin/opentofu
-  visiblename: app-admin/opentofu
-  version: 1.10.6
-  origversion: null
-  status: outdated
   summary: The open source infrastructure as code tool
   maintainers:
     - williamh@gentoo.org
@@ -909,9 +909,9 @@
   srcname: opentofu
   binname: opentofu
   visiblename: opentofu
-  version: 1.13.0
-  origversion: 1.13.0_1
-  status: outdated
+  version: 1.13.2
+  origversion: 1.13.2_1
+  status: newest
   summary: Tool for building and changing infrastructure, from community
   maintainers:
     - nicolas.antauf@gmail.com
@@ -1020,15 +1020,6 @@
   subrepo: devops
   binname: opentofu
   visiblename: opentofu
-  version: 1.11.5
-  origversion: 1.11.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
   version: 1.11.4
   origversion: 1.11.4-1~ops2deb
   status: legacy
@@ -1049,6 +1040,15 @@
   visiblename: opentofu
   version: 1.11.2
   origversion: 1.11.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.11.1
+  origversion: 1.11.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
