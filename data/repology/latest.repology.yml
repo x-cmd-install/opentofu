@@ -1,23 +1,31 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: opentofu
+- repo: wakemeops
+  subrepo: devops
   binname: opentofu
   visiblename: opentofu
-  version: 1.13.1
-  origversion: 1.13.1-1
-  status: outdated
-  summary: Lets you declaratively manage your cloud infrastructure
-  licenses:
-    - MPL-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: opentofu
+  version: 1.10.2
+  origversion: 1.10.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
   binname: opentofu
   visiblename: opentofu
-  version: 1.13.1
-  origversion: 1.13.1-1
+  version: 1.10.1
+  origversion: 1.10.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: nix_stable_25_11
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.10.9
+  origversion: null
   status: outdated
-  summary: Lets you declaratively manage your cloud infrastructure
+  summary: Tool for building, changing, and versioning infrastructure
+  maintainers:
+    - nickcao@nichi.co
+    - zowoq@github
   licenses:
     - MPL-2.0
 - repo: alpine_3_19
@@ -104,7 +112,7 @@
   binname: opentofu
   visiblename: opentofu
   version: 1.13.1
-  origversion: 1.13.1-r0
+  origversion: 1.13.1-r1
   status: outdated
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   maintainers:
@@ -273,13 +281,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
-- repo: homebrew
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.13.2
-  origversion: null
-  status: newest
-  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: fedora_40
   subrepo: updates
   srcname: opentofu
@@ -360,19 +361,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
-- repo: nix_stable_24_05
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.7.1
-  origversion: null
-  status: outdated
-  summary: Tool for building, changing, and versioning infrastructure
-  maintainers:
-    - git@gmem.ca
-    - nickcao@nichi.co
-    - zowoq@github
-  licenses:
-    - MPL-2.0
 - repo: fedora_42
   subrepo: updates
   srcname: opentofu
@@ -519,18 +507,6 @@
     - ISC
   categories:
     - app-admin
-- repo: nix_stable_24_11
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.8.7
-  origversion: null
-  status: outdated
-  summary: Tool for building, changing, and versioning infrastructure
-  maintainers:
-    - nickcao@nichi.co
-    - zowoq@github
-  licenses:
-    - MPL-2.0
 - repo: gentoo
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -549,6 +525,13 @@
     - ISC
   categories:
     - app-admin
+- repo: homebrew
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.13.2
+  origversion: null
+  status: newest
+  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: homebrew
   srcname: opentofu
   visiblename: opentofu
@@ -693,10 +676,45 @@
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
-- repo: nix_stable_25_05
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: opentofu
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.13.1
+  origversion: 1.13.1-1
+  status: outdated
+  summary: Lets you declaratively manage your cloud infrastructure
+  licenses:
+    - MPL-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opentofu
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.13.1
+  origversion: 1.13.1-1
+  status: outdated
+  summary: Lets you declaratively manage your cloud infrastructure
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_24_05
   srcname: opentofu
   visiblename: opentofu
-  version: 1.9.1
+  version: 1.7.1
+  origversion: null
+  status: outdated
+  summary: Tool for building, changing, and versioning infrastructure
+  maintainers:
+    - git@gmem.ca
+    - nickcao@nichi.co
+    - zowoq@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_24_11
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.8.7
   origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
@@ -705,10 +723,10 @@
     - zowoq@github
   licenses:
     - MPL-2.0
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: opentofu
   visiblename: opentofu
-  version: 1.10.9
+  version: 1.9.1
   origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
@@ -1101,24 +1119,6 @@
   visiblename: opentofu
   version: 1.10.3
   origversion: 1.10.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.10.2
-  origversion: 1.10.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.10.1
-  origversion: 1.10.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com

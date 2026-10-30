@@ -1,0 +1,183 @@
+about:
+  description: "OpenTofu lets you declaratively manage your cloud infrastructure."
+  license: MPL-2.0
+  homepage: https://opentofu.org
+  head: 073d2cd
+  archived: false
+  latestVersion: "v1.12.11"
+  latestRelease: "v1.12.11"
+  latestPrerelease: "v1.13.0-rc1"
+  collectedAt: 2026-10-30T05:56:28Z
+timeline:
+  created: 2023-08-16
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 2026-09-17
+popularity:
+  star: 30673
+  watcher: 146
+  fork: 1410
+  release: 110
+  contributor: 212
+  pullRequest: 2738
+  issue: 1863
+language:
+  Go: 17032554
+  MDX: 1499450
+  HCL: 84963
+  Shell: 18401
+  Makefile: 9853
+  Python: 2794
+  Dockerfile: 2584
+  PowerShell: 1728
+  JavaScript: 1342
+totalBytes: 18653669
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 7
+    mergedPR: 71
+    openPR: 15
+    closedIssue: 27
+    openIssue: 43
+    commit: 71
+  last60d:
+    since: 2026-08-31
+    release: 8
+    mergedPR: 114
+    openPR: 23
+    closedIssue: 40
+    openIssue: 52
+    commit: 125
+  last90d:
+    since: 2026-08-01
+    release: 11
+    mergedPR: 185
+    openPR: 24
+    closedIssue: 62
+    openIssue: 57
+    commit: 234
+  last180d:
+    since: 2026-05-03
+    release: 25
+    mergedPR: 362
+    openPR: 28
+    closedIssue: 166
+    openIssue: 80
+    commit: 457
+  last360d:
+    since: 2025-11-04
+    release: 40
+    mergedPR: 701
+    openPR: 39
+    closedIssue: 319
+    openIssue: 113
+    commit: 859
+  last720d:
+    since: 2024-11-09
+    release: 75
+    mergedPR: 1409
+    openPR: 57
+    closedIssue: 650
+    openIssue: 216
+    commit: 1624
+total:
+  release: 110
+  mergedPR: 2338
+  openPR: 62
+  closedIssue: 1553
+  openIssue: 310
+  commit: 33970
+---
+path: /home/runner/.x-repo/github.com/opentofu/opentofu
+collectedAt: 2026-10-30T05:56:52Z
+loc:
+  Go:
+    code: 449267
+    comments: 69668
+    blanks: 63016
+    files: 1935
+  Json:
+    code: 42628
+    comments: 0
+    blanks: 9
+    files: 428
+  Hcl:
+    code: 15647
+    comments: 984
+    blanks: 2785
+    files: 1607
+  Protobuf:
+    code: 7826
+    comments: 3556
+    blanks: 1769
+    files: 24
+  Sh:
+    code: 437
+    comments: 140
+    blanks: 104
+    files: 35
+  Makefile:
+    code: 167
+    comments: 39
+    blanks: 51
+    files: 1
+  Yaml:
+    code: 159
+    comments: 25
+    blanks: 7
+    files: 5
+  Python:
+    code: 111
+    comments: 43
+    blanks: 24
+    files: 4
+  PowerShell:
+    code: 45
+    comments: 5
+    blanks: 3
+    files: 6
+  Dockerfile:
+    code: 42
+    comments: 17
+    blanks: 20
+    files: 5
+  Jsx:
+    code: 19
+    comments: 6
+    blanks: 3
+    files: 1
+  Pan:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 10
+    comments: 17
+    blanks: 6
+    files: 2
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 10608
+    blanks: 4080
+    files: 97
+  Text:
+    code: 0
+    comments: 53
+    blanks: 2
+    files: 13
+total:
+  code: 518098
+  comments: 85537
+  blanks: 72076
+  files: 4165
+---
+
+---
