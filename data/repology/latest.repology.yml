@@ -1,33 +1,17 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.10.2
-  origversion: 1.10.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.10.1
-  origversion: 1.10.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: opentofu
   visiblename: opentofu
-  version: 1.10.9
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
+- repo: homebrew
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.13.2
   origversion: null
   status: outdated
-  summary: Tool for building, changing, and versioning infrastructure
-  maintainers:
-    - nickcao@nichi.co
-    - zowoq@github
-  licenses:
-    - MPL-2.0
+  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: alpine_3_19
   subrepo: community
   srcname: opentofu
@@ -170,7 +154,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: 1.13.2-1
-  status: newest
+  status: outdated
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
@@ -259,7 +243,7 @@
   visiblename: net/opentofu
   version: 1.13.2
   origversion: null
-  status: newest
+  status: outdated
   summary: An OSS tool for building, changing, and versioning infrastructure safely and efficiently
   maintainers:
     - fallback-mnt-exherbo@repology
@@ -314,22 +298,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: opentofu
-  binnames:
-    - opentofu
-    - opentofu-debuginfo
-    - opentofu-debugsource
-  visiblename: opentofu
-  version: 1.8.3
-  origversion: 1.8.3-1.fc41
-  status: legacy
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: opentofu
   binnames:
@@ -345,7 +313,7 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: release
   srcname: opentofu
   binnames:
@@ -353,8 +321,8 @@
     - opentofu-debuginfo
     - opentofu-debugsource
   visiblename: opentofu
-  version: 1.9.0
-  origversion: 1.9.0-1.fc42
+  version: 1.8.3
+  origversion: 1.8.3-1.fc41
   status: legacy
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   licenses:
@@ -372,6 +340,22 @@
   version: 1.10.7
   origversion: 1.10.7-1.fc42
   status: outdated
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: opentofu
+  binnames:
+    - opentofu
+    - opentofu-debuginfo
+    - opentofu-debugsource
+  visiblename: opentofu
+  version: 1.9.0
+  origversion: 1.9.0-1.fc42
+  status: legacy
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
@@ -445,7 +429,7 @@
   srcname: sysutils/opentofu
   binname: opentofu
   visiblename: sysutils/opentofu
-  version: 1.13.2
+  version: 1.13.3
   origversion: null
   status: newest
   summary: Tool for building, changing, and versioning infrastructure
@@ -525,20 +509,6 @@
     - ISC
   categories:
     - app-admin
-- repo: homebrew
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.13.2
-  origversion: null
-  status: newest
-  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
-- repo: homebrew
-  srcname: opentofu
-  visiblename: opentofu
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: liguros_stable
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -735,6 +705,18 @@
     - zowoq@github
   licenses:
     - MPL-2.0
+- repo: nix_stable_25_11
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.10.9
+  origversion: null
+  status: outdated
+  summary: Tool for building, changing, and versioning infrastructure
+  maintainers:
+    - nickcao@nichi.co
+    - zowoq@github
+  licenses:
+    - MPL-2.0
 - repo: nix_stable_26_05
   srcname: opentofu
   visiblename: opentofu
@@ -752,7 +734,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Tool for building, changing, and versioning infrastructure
   maintainers:
     - nickcao@nichi.co
@@ -763,8 +745,8 @@
   srcname: sysutils/opentofu
   binname: opentofu
   visiblename: sysutils/opentofu
-  version: 1.13.2
-  origversion: 1.13.2p0
+  version: 1.13.3
+  origversion: null
   status: newest
   summary: declaratively manage infrastructure
   maintainers:
@@ -826,7 +808,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: 1.13.2-1
-  status: newest
+  status: outdated
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
@@ -848,7 +830,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: null
-  status: newest
+  status: outdated
   licenses:
     - MPL-2.0
 - repo: slackbuilds
@@ -865,9 +847,9 @@
   srcname: opentofu
   binname: opentofu
   visiblename: opentofu
-  version: 1.13.2
+  version: 1.13.5
   origversion: null
-  status: newest
+  status: untrusted
   summary: OpenTofu lets you declaratively manage your cloud infrastructure.
   maintainers:
     - david@davidjharder.ca
@@ -879,9 +861,9 @@
   srcname: opentofu
   binname: opentofu-dbginfo
   visiblename: opentofu-dbginfo
-  version: 1.13.2
+  version: 1.13.5
   origversion: null
-  status: newest
+  status: untrusted
   summary: Debug symbols for opentofu
   maintainers:
     - david@davidjharder.ca
@@ -892,9 +874,9 @@
 - repo: t2
   srcname: opentofu
   visiblename: opentofu
-  version: 1.13.2
+  version: 1.13.5
   origversion: null
-  status: newest
+  status: untrusted
   summary: Declaratively manage your cloud infrastructure
   maintainers:
     - daniel.ashkenazi@gmail.com
@@ -909,7 +891,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: 1.13.2_1
-  status: newest
+  status: outdated
   summary: Tool for building and changing infrastructure, from community
   maintainers:
     - nicolas.antauf@gmail.com
@@ -921,7 +903,7 @@
   visiblename: opentofu
   version: 1.13.2
   origversion: 1.13.2-1~ops2deb
-  status: newest
+  status: outdated
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -1119,6 +1101,24 @@
   visiblename: opentofu
   version: 1.10.3
   origversion: 1.10.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.10.2
+  origversion: 1.10.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.10.1
+  origversion: 1.10.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
