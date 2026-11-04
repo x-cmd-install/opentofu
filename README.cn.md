@@ -14,11 +14,11 @@ x install opentofu
 
 ## 代码洞察
 
-合计: **516,752** 行代码（覆盖前 5 种语言、共 **4031** 个文件）。
+合计: **517,355** 行代码（覆盖前 5 种语言、共 **4032** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 449,627 | 69,716 | 63,049 | 1935 |
+| Go | 450,230 | 69,830 | 63,160 | 1936 |
 | Json | 42,628 | 0 | 9 | 428 |
 | Hcl | 15,667 | 984 | 2,788 | 1609 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
@@ -33,27 +33,27 @@ x install opentofu
 ## 发布
 
 - **最新版本**: `v1.12.11` (2026-10-29)
-- **最近提交**: 2026-11-02
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 172 个
 
 ## 流行度
 
-- **Star**: 30,708 · **Fork**: 1,415 · **开放 issue**: 1,865 · **贡献者**: 212
+- **Star**: 30,716 · **Fork**: 1,418 · **开放 issue**: 1,865 · **贡献者**: 213
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 2342 · **开放 PR**: 62 · **已关闭 issue**: 1556 · **开放 issue**: 309 · **提交数**: 33975
+- **发布数**: 110 · **已合并 PR**: 2345 · **开放 PR**: 61 · **已关闭 issue**: 1559 · **开放 issue**: 306 · **提交数**: 33979
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 68 | 16 | 26 | 43 | 67 |
-| last60d | 2026-09-04 | 8 | 101 | 22 | 40 | 52 | 110 |
-| 90d | 2026-08-05 | 11 | 182 | 24 | 59 | 57 | 227 |
-| last180d | 2026-05-07 | 25 | 362 | 28 | 167 | 80 | 455 |
-| 360d | 2025-11-08 | 39 | 700 | 37 | 319 | 112 | 855 |
-| last720d | 2024-11-13 | 75 | 1410 | 57 | 651 | 213 | 1628 |
+| 30d | 2026-10-05 | 4 | 68 | 14 | 22 | 42 | 70 |
+| last60d | 2026-09-05 | 8 | 104 | 21 | 41 | 51 | 113 |
+| 90d | 2026-08-06 | 11 | 185 | 23 | 59 | 55 | 230 |
+| last180d | 2026-05-08 | 25 | 359 | 27 | 169 | 77 | 458 |
+| 360d | 2025-11-09 | 39 | 703 | 36 | 321 | 110 | 858 |
+| last720d | 2024-11-14 | 75 | 1411 | 56 | 652 | 211 | 1632 |
 
 ## Release 资产
 
@@ -232,20 +232,6 @@ x install opentofu
 | [tofu_1.13.2_windows_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.2/tofu_1.13.2_windows_arm64.zip.pem) | 3.2 KiB | `native/win/arm64` |
 | [tofu_1.13.2_windows_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.2/tofu_1.13.2_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/opentofu) 上共有 **107** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**44** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.13.2` | ⚠️ outdated |
-| Homebrew | `1.13.5` | ✅ latest |
-| Fedora rawhide | `1.12.3` | ⚠️ outdated |
-| Nix unstable | `1.13.2` | ⚠️ outdated |
-| Void | `1.13.2` | ⚠️ outdated |
-| Alpine edge | `1.13.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.13.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opentofu` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -255,4 +241,4 @@ opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:08:19Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:31:26Z._
