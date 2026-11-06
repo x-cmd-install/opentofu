@@ -14,11 +14,11 @@ x install opentofu
 
 ## 代码洞察
 
-合计: **517,356** 行代码（覆盖前 5 种语言、共 **4032** 个文件）。
+合计: **517,336** 行代码（覆盖前 5 种语言、共 **4032** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 450,230 | 69,830 | 63,160 | 1936 |
+| Go | 450,210 | 69,806 | 63,157 | 1936 |
 | Json | 42,628 | 0 | 9 | 428 |
 | Hcl | 15,667 | 984 | 2,788 | 1609 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
@@ -32,206 +32,206 @@ x install opentofu
 
 ## 发布
 
-- **最新版本**: `v1.13.8` (2026-11-04)
-- **最近提交**: 2026-11-04
+- **最新版本**: `v1.13.9` (2026-11-05)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 164 个
 
 ## 流行度
 
-- **Star**: 30,724 · **Fork**: 1,419 · **开放 issue**: 1,865 · **贡献者**: 213
+- **Star**: 30,735 · **Fork**: 1,417 · **开放 issue**: 1,867 · **贡献者**: 213
 
 ## 累计统计
 
-- **发布数**: 111 · **已合并 PR**: 2349 · **开放 PR**: 62 · **已关闭 issue**: 1559 · **开放 issue**: 306 · **提交数**: 33980
+- **发布数**: 113 · **已合并 PR**: 2354 · **开放 PR**: 60 · **已关闭 issue**: 1560 · **开放 issue**: 307 · **提交数**: 33982
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 5 | 68 | 15 | 21 | 38 | 71 |
-| last60d | 2026-09-06 | 9 | 108 | 22 | 41 | 51 | 114 |
-| 90d | 2026-08-07 | 12 | 188 | 23 | 59 | 55 | 231 |
-| last180d | 2026-05-09 | 26 | 363 | 28 | 169 | 77 | 459 |
-| 360d | 2025-11-10 | 40 | 703 | 37 | 320 | 110 | 859 |
-| last720d | 2024-11-15 | 76 | 1415 | 57 | 652 | 211 | 1633 |
+| 30d | 2026-10-07 | 7 | 73 | 13 | 22 | 38 | 73 |
+| last60d | 2026-09-07 | 11 | 113 | 19 | 42 | 52 | 116 |
+| 90d | 2026-08-08 | 14 | 193 | 21 | 60 | 56 | 233 |
+| last180d | 2026-05-10 | 28 | 368 | 26 | 170 | 78 | 461 |
+| 360d | 2025-11-11 | 42 | 708 | 35 | 320 | 111 | 861 |
+| last720d | 2024-11-16 | 78 | 1420 | 55 | 653 | 212 | 1635 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tofu_1.13.8_386.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.apk) | 32.1 MiB | `other` |
-| [tofu_1.13.8_386.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.apk.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_386.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.apk.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_386.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.apk.sig) | 96 B | `other` |
-| [tofu_1.13.8_386.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.deb) | 30.8 MiB | `other` |
-| [tofu_1.13.8_386.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.deb.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_386.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.deb.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_386.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.deb.sig) | 96 B | `other` |
-| [tofu_1.13.8_386.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.rpm) | 31.7 MiB | `other` |
-| [tofu_1.13.8_386.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.rpm.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_386.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.rpm.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_386.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_386.rpm.sig) | 96 B | `other` |
-| [tofu_1.13.8_amd64.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.apk) | 35.0 MiB | `other` |
-| [tofu_1.13.8_amd64.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.apk.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_amd64.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.apk.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_amd64.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.apk.sig) | 96 B | `other` |
-| [tofu_1.13.8_amd64.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.deb) | 33.5 MiB | `runtime/deb/amd64` |
-| [tofu_1.13.8_amd64.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.deb.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_amd64.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.deb.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_amd64.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.deb.sig) | 96 B | `other` |
-| [tofu_1.13.8_amd64.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.rpm) | 34.6 MiB | `other` |
-| [tofu_1.13.8_amd64.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.rpm.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_amd64.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.rpm.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_amd64.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_amd64.rpm.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.apk) | 32.4 MiB | `other` |
-| [tofu_1.13.8_arm.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.apk.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.apk.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.apk.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.deb) | 31.1 MiB | `other` |
-| [tofu_1.13.8_arm.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.deb.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.deb.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.deb.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.rpm) | 31.9 MiB | `other` |
-| [tofu_1.13.8_arm.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.rpm.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.rpm.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm.rpm.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm64.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.apk) | 31.1 MiB | `other` |
-| [tofu_1.13.8_arm64.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.apk.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm64.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.apk.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm64.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.apk.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm64.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.deb) | 29.9 MiB | `runtime/deb/arm64` |
-| [tofu_1.13.8_arm64.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.deb.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm64.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.deb.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm64.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.deb.sig) | 96 B | `other` |
-| [tofu_1.13.8_arm64.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.rpm) | 30.7 MiB | `other` |
-| [tofu_1.13.8_arm64.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.rpm.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_arm64.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.rpm.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_arm64.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_arm64.rpm.sig) | 96 B | `other` |
-| [tofu_1.13.8_darwin_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.tar.gz) | 34.3 MiB | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.tar.gz.gpgsig) | 566 B | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.tar.gz.pem) | 3.2 KiB | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.tar.gz.sig) | 96 B | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.zip) | 34.3 MiB | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.zip.gpgsig) | 566 B | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.zip.pem) | 3.2 KiB | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_amd64.zip.sig) | 96 B | `native/darwin/x64` |
-| [tofu_1.13.8_darwin_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.tar.gz) | 31.4 MiB | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.tar.gz.gpgsig) | 566 B | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.tar.gz.pem) | 3.2 KiB | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.tar.gz.sig) | 96 B | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.zip) | 31.4 MiB | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.zip.gpgsig) | 566 B | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.zip.pem) | 3.2 KiB | `native/darwin/arm64` |
-| [tofu_1.13.8_darwin_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_darwin_arm64.zip.sig) | 96 B | `native/darwin/arm64` |
-| [tofu_1.13.8_freebsd_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.tar.gz) | 30.7 MiB | `native/unknown` |
-| [tofu_1.13.8_freebsd_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_freebsd_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.zip) | 30.7 MiB | `other` |
-| [tofu_1.13.8_freebsd_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_386.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_freebsd_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
-| [tofu_1.13.8_freebsd_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_freebsd_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.zip) | 33.5 MiB | `other` |
-| [tofu_1.13.8_freebsd_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_amd64.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_freebsd_arm.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.tar.gz) | 31.1 MiB | `native/linux/arm` |
-| [tofu_1.13.8_freebsd_arm.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_arm.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_arm.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_freebsd_arm.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.zip) | 31.1 MiB | `other` |
-| [tofu_1.13.8_freebsd_arm.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_freebsd_arm.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_freebsd_arm.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_freebsd_arm.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_linux_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.tar.gz) | 30.8 MiB | `native/unknown` |
-| [tofu_1.13.8_linux_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_linux_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_linux_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_linux_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.zip) | 30.8 MiB | `other` |
-| [tofu_1.13.8_linux_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_linux_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_linux_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_386.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_linux_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.tar.gz.gpgsig) | 566 B | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.tar.gz.pem) | 3.2 KiB | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.zip) | 33.5 MiB | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.zip.gpgsig) | 566 B | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.zip.pem) | 3.2 KiB | `native/linux/x64` |
-| [tofu_1.13.8_linux_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_amd64.zip.sig) | 96 B | `native/linux/x64` |
-| [tofu_1.13.8_linux_arm.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.tar.gz) | 31.1 MiB | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.tar.gz.gpgsig) | 566 B | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.tar.gz.pem) | 3.2 KiB | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.tar.gz.sig) | 96 B | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.zip) | 31.1 MiB | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.zip.gpgsig) | 566 B | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.zip.pem) | 3.2 KiB | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm.zip.sig) | 96 B | `native/linux/arm` |
-| [tofu_1.13.8_linux_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.tar.gz) | 29.9 MiB | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.tar.gz.gpgsig) | 566 B | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.tar.gz.pem) | 3.2 KiB | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.zip) | 29.9 MiB | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.zip.gpgsig) | 566 B | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.zip.pem) | 3.2 KiB | `native/linux/arm64` |
-| [tofu_1.13.8_linux_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_linux_arm64.zip.sig) | 96 B | `native/linux/arm64` |
-| [tofu_1.13.8_openbsd_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
-| [tofu_1.13.8_openbsd_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_openbsd_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_openbsd_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_openbsd_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.zip) | 33.5 MiB | `other` |
-| [tofu_1.13.8_openbsd_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_openbsd_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_openbsd_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_openbsd_amd64.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_SHA256SUMS](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_SHA256SUMS) | 3.6 KiB | `other` |
-| [tofu_1.13.8_SHA256SUMS.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_SHA256SUMS.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_SHA256SUMS.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_SHA256SUMS.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_SHA256SUMS.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_SHA256SUMS.sig) | 96 B | `other` |
-| [tofu_1.13.8_solaris_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
-| [tofu_1.13.8_solaris_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.tar.gz.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_solaris_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.tar.gz.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_solaris_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.tar.gz.sig) | 96 B | `other` |
-| [tofu_1.13.8_solaris_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.zip) | 33.5 MiB | `other` |
-| [tofu_1.13.8_solaris_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.zip.gpgsig) | 566 B | `other` |
-| [tofu_1.13.8_solaris_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.zip.pem) | 3.2 KiB | `other` |
-| [tofu_1.13.8_solaris_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_solaris_amd64.zip.sig) | 96 B | `other` |
-| [tofu_1.13.8_windows_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.tar.gz) | 32.5 MiB | `native/win/x64` |
-| [tofu_1.13.8_windows_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.tar.gz.gpgsig) | 566 B | `native/win/x64` |
-| [tofu_1.13.8_windows_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.tar.gz.pem) | 3.2 KiB | `native/win/x64` |
-| [tofu_1.13.8_windows_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.tar.gz.sig) | 96 B | `native/win/x64` |
-| [tofu_1.13.8_windows_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.zip) | 32.5 MiB | `native/win/x64` |
-| [tofu_1.13.8_windows_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.zip.gpgsig) | 566 B | `native/win/x64` |
-| [tofu_1.13.8_windows_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.zip.pem) | 3.2 KiB | `native/win/x64` |
-| [tofu_1.13.8_windows_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_386.zip.sig) | 96 B | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.tar.gz) | 34.3 MiB | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.tar.gz.gpgsig) | 566 B | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.tar.gz.pem) | 3.2 KiB | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.tar.gz.sig) | 96 B | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.zip) | 34.3 MiB | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.zip.gpgsig) | 566 B | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.zip.pem) | 3.2 KiB | `native/win/x64` |
-| [tofu_1.13.8_windows_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_amd64.zip.sig) | 96 B | `native/win/x64` |
-| [tofu_1.13.8_windows_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.tar.gz) | 30.1 MiB | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.tar.gz.gpgsig) | 566 B | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.tar.gz.pem) | 3.2 KiB | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.tar.gz.sig) | 96 B | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.zip) | 30.1 MiB | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.zip.gpgsig) | 566 B | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.zip.pem) | 3.2 KiB | `native/win/arm64` |
-| [tofu_1.13.8_windows_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.8/tofu_1.13.8_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
+| [tofu_1.13.9_386.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.apk) | 32.1 MiB | `other` |
+| [tofu_1.13.9_386.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.apk.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_386.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.apk.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_386.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.apk.sig) | 96 B | `other` |
+| [tofu_1.13.9_386.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.deb) | 30.8 MiB | `other` |
+| [tofu_1.13.9_386.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.deb.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_386.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.deb.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_386.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.deb.sig) | 96 B | `other` |
+| [tofu_1.13.9_386.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.rpm) | 31.7 MiB | `other` |
+| [tofu_1.13.9_386.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.rpm.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_386.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.rpm.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_386.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_386.rpm.sig) | 96 B | `other` |
+| [tofu_1.13.9_amd64.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.apk) | 35.0 MiB | `other` |
+| [tofu_1.13.9_amd64.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.apk.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_amd64.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.apk.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_amd64.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.apk.sig) | 96 B | `other` |
+| [tofu_1.13.9_amd64.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.deb) | 33.5 MiB | `runtime/deb/amd64` |
+| [tofu_1.13.9_amd64.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.deb.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_amd64.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.deb.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_amd64.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.deb.sig) | 96 B | `other` |
+| [tofu_1.13.9_amd64.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.rpm) | 34.6 MiB | `other` |
+| [tofu_1.13.9_amd64.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.rpm.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_amd64.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.rpm.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_amd64.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_amd64.rpm.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.apk) | 32.4 MiB | `other` |
+| [tofu_1.13.9_arm.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.apk.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.apk.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.apk.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.deb) | 31.1 MiB | `other` |
+| [tofu_1.13.9_arm.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.deb.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.deb.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.deb.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.rpm) | 31.9 MiB | `other` |
+| [tofu_1.13.9_arm.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.rpm.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.rpm.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm.rpm.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm64.apk](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.apk) | 31.1 MiB | `other` |
+| [tofu_1.13.9_arm64.apk.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.apk.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm64.apk.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.apk.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm64.apk.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.apk.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm64.deb](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.deb) | 29.9 MiB | `runtime/deb/arm64` |
+| [tofu_1.13.9_arm64.deb.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.deb.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm64.deb.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.deb.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm64.deb.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.deb.sig) | 96 B | `other` |
+| [tofu_1.13.9_arm64.rpm](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.rpm) | 30.7 MiB | `other` |
+| [tofu_1.13.9_arm64.rpm.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.rpm.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_arm64.rpm.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.rpm.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_arm64.rpm.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_arm64.rpm.sig) | 96 B | `other` |
+| [tofu_1.13.9_darwin_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.tar.gz) | 34.3 MiB | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.tar.gz.gpgsig) | 566 B | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.tar.gz.pem) | 3.2 KiB | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.tar.gz.sig) | 96 B | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.zip) | 34.3 MiB | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.zip.gpgsig) | 566 B | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.zip.pem) | 3.2 KiB | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_amd64.zip.sig) | 96 B | `native/darwin/x64` |
+| [tofu_1.13.9_darwin_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.tar.gz) | 31.4 MiB | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.tar.gz.gpgsig) | 566 B | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.tar.gz.pem) | 3.2 KiB | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.tar.gz.sig) | 96 B | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.zip) | 31.4 MiB | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.zip.gpgsig) | 566 B | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.zip.pem) | 3.2 KiB | `native/darwin/arm64` |
+| [tofu_1.13.9_darwin_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_darwin_arm64.zip.sig) | 96 B | `native/darwin/arm64` |
+| [tofu_1.13.9_freebsd_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.tar.gz) | 30.7 MiB | `native/unknown` |
+| [tofu_1.13.9_freebsd_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_freebsd_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.zip) | 30.7 MiB | `other` |
+| [tofu_1.13.9_freebsd_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_386.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_freebsd_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
+| [tofu_1.13.9_freebsd_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_freebsd_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.zip) | 33.5 MiB | `other` |
+| [tofu_1.13.9_freebsd_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_amd64.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_freebsd_arm.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.tar.gz) | 31.1 MiB | `native/linux/arm` |
+| [tofu_1.13.9_freebsd_arm.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_arm.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_arm.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_freebsd_arm.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.zip) | 31.1 MiB | `other` |
+| [tofu_1.13.9_freebsd_arm.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_freebsd_arm.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_freebsd_arm.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_freebsd_arm.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_linux_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.tar.gz) | 30.8 MiB | `native/unknown` |
+| [tofu_1.13.9_linux_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_linux_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_linux_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_linux_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.zip) | 30.8 MiB | `other` |
+| [tofu_1.13.9_linux_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_linux_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_linux_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_386.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_linux_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.tar.gz.gpgsig) | 566 B | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.tar.gz.pem) | 3.2 KiB | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.zip) | 33.5 MiB | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.zip.gpgsig) | 566 B | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.zip.pem) | 3.2 KiB | `native/linux/x64` |
+| [tofu_1.13.9_linux_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_amd64.zip.sig) | 96 B | `native/linux/x64` |
+| [tofu_1.13.9_linux_arm.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.tar.gz) | 31.1 MiB | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.tar.gz.gpgsig) | 566 B | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.tar.gz.pem) | 3.2 KiB | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.tar.gz.sig) | 96 B | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.zip) | 31.1 MiB | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.zip.gpgsig) | 566 B | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.zip.pem) | 3.2 KiB | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm.zip.sig) | 96 B | `native/linux/arm` |
+| [tofu_1.13.9_linux_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.tar.gz) | 29.9 MiB | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.tar.gz.gpgsig) | 566 B | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.tar.gz.pem) | 3.2 KiB | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.zip) | 29.9 MiB | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.zip.gpgsig) | 566 B | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.zip.pem) | 3.2 KiB | `native/linux/arm64` |
+| [tofu_1.13.9_linux_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_linux_arm64.zip.sig) | 96 B | `native/linux/arm64` |
+| [tofu_1.13.9_openbsd_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
+| [tofu_1.13.9_openbsd_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_openbsd_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_openbsd_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_openbsd_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.zip) | 33.5 MiB | `other` |
+| [tofu_1.13.9_openbsd_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_openbsd_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_openbsd_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_openbsd_amd64.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_SHA256SUMS](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_SHA256SUMS) | 3.6 KiB | `other` |
+| [tofu_1.13.9_SHA256SUMS.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_SHA256SUMS.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_SHA256SUMS.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_SHA256SUMS.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_SHA256SUMS.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_SHA256SUMS.sig) | 96 B | `other` |
+| [tofu_1.13.9_solaris_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.tar.gz) | 33.5 MiB | `native/linux/x64` |
+| [tofu_1.13.9_solaris_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.tar.gz.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_solaris_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.tar.gz.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_solaris_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.tar.gz.sig) | 96 B | `other` |
+| [tofu_1.13.9_solaris_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.zip) | 33.5 MiB | `other` |
+| [tofu_1.13.9_solaris_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.zip.gpgsig) | 566 B | `other` |
+| [tofu_1.13.9_solaris_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.zip.pem) | 3.2 KiB | `other` |
+| [tofu_1.13.9_solaris_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_solaris_amd64.zip.sig) | 96 B | `other` |
+| [tofu_1.13.9_windows_386.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.tar.gz) | 32.5 MiB | `native/win/x64` |
+| [tofu_1.13.9_windows_386.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.tar.gz.gpgsig) | 566 B | `native/win/x64` |
+| [tofu_1.13.9_windows_386.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.tar.gz.pem) | 3.2 KiB | `native/win/x64` |
+| [tofu_1.13.9_windows_386.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.tar.gz.sig) | 96 B | `native/win/x64` |
+| [tofu_1.13.9_windows_386.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.zip) | 32.5 MiB | `native/win/x64` |
+| [tofu_1.13.9_windows_386.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.zip.gpgsig) | 566 B | `native/win/x64` |
+| [tofu_1.13.9_windows_386.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.zip.pem) | 3.2 KiB | `native/win/x64` |
+| [tofu_1.13.9_windows_386.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_386.zip.sig) | 96 B | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.tar.gz) | 34.3 MiB | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.tar.gz.gpgsig) | 566 B | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.tar.gz.pem) | 3.2 KiB | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.tar.gz.sig) | 96 B | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.zip) | 34.3 MiB | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.zip.gpgsig) | 566 B | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.zip.pem) | 3.2 KiB | `native/win/x64` |
+| [tofu_1.13.9_windows_amd64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_amd64.zip.sig) | 96 B | `native/win/x64` |
+| [tofu_1.13.9_windows_arm64.tar.gz](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.tar.gz) | 30.1 MiB | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.tar.gz.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.tar.gz.gpgsig) | 566 B | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.tar.gz.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.tar.gz.pem) | 3.2 KiB | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.tar.gz.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.tar.gz.sig) | 96 B | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.zip](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.zip) | 30.1 MiB | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.zip.gpgsig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.zip.gpgsig) | 566 B | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.zip.pem) | 3.2 KiB | `native/win/arm64` |
+| [tofu_1.13.9_windows_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.9/tofu_1.13.9_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/opentofu) 上共有 **108** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/opentofu) 上共有 **110** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**45** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.13.2` | ⚠️ outdated |
-| Homebrew | `1.13.5` | ⚠️ outdated |
+| Homebrew | `1.13.9` | ✅ latest |
 | Fedora rawhide | `1.12.3` | ⚠️ outdated |
 | Nix unstable | `1.13.5` | ⚠️ outdated |
 | Void | `1.13.2` | ⚠️ outdated |
@@ -247,4 +247,4 @@ opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:58:12Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:58:09Z._
