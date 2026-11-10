@@ -18,7 +18,7 @@ Total: **517,341** lines of code across **4032** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 450,215 | 69,812 | 63,159 | 1936 |
+| Go | 450,215 | 69,816 | 63,159 | 1936 |
 | Json | 42,628 | 0 | 9 | 428 |
 | Hcl | 15,667 | 984 | 2,788 | 1609 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
@@ -33,27 +33,27 @@ Total: **517,341** lines of code across **4032** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.9` (2026-11-05)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 164
 
 ## Popularity
 
-- **Stars**: 30,766 · **Forks**: 1,419 · **Open issues**: 1,869 · **Contributors**: 213
+- **Stars**: 30,778 · **Forks**: 1,421 · **Open issues**: 1,871 · **Contributors**: 213
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 2355 · **Open PRs**: 64 · **Closed issues**: 1561 · **Open issues**: 308 · **Commits**: 33983
+- **Releases**: 113 · **Merged PRs**: 2356 · **Open PRs**: 67 · **Closed issues**: 1562 · **Open issues**: 309 · **Commits**: 33984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 7 | 70 | 16 | 21 | 38 | 51 |
-| last60d | 2026-09-10 | 11 | 110 | 23 | 41 | 49 | 113 |
-| 90d | 2026-08-11 | 14 | 187 | 25 | 60 | 57 | 199 |
-| last180d | 2026-05-13 | 26 | 363 | 30 | 164 | 79 | 453 |
-| 360d | 2025-11-14 | 42 | 705 | 38 | 321 | 112 | 852 |
-| last720d | 2024-11-19 | 78 | 1410 | 59 | 652 | 213 | 1634 |
+| 30d | 2026-10-11 | 7 | 71 | 19 | 22 | 39 | 52 |
+| last60d | 2026-09-11 | 11 | 111 | 26 | 42 | 50 | 114 |
+| 90d | 2026-08-12 | 14 | 184 | 28 | 60 | 58 | 200 |
+| last180d | 2026-05-14 | 26 | 360 | 33 | 163 | 80 | 454 |
+| 360d | 2025-11-15 | 42 | 706 | 41 | 321 | 113 | 853 |
+| last720d | 2024-11-20 | 77 | 1405 | 62 | 650 | 214 | 1620 |
 
 ## Release assets
 
@@ -226,17 +226,17 @@ Total: **517,341** lines of code across **4032** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **112** distros on [repology.org](https://repology.org/project/opentofu). **11** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+Reported by **111** distros on [repology.org](https://repology.org/project/opentofu). **12** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.13.2` | ⚠️ outdated |
+| Arch | `1.13.9` | ✅ latest |
 | Homebrew | `1.13.9` | ✅ latest |
 | Fedora rawhide | `1.12.3` | ⚠️ outdated |
 | Nix unstable | `1.13.5` | ⚠️ outdated |
 | Void | `1.13.9` | ✅ latest |
 | Alpine edge | `1.13.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.13.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.13.9` | ✅ latest |
 
 ## Improve this data
 
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:40:51Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:41:57Z._
