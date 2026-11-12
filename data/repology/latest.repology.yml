@@ -1,52 +1,18 @@
-- repo: wakemeops
-  subrepo: devops
+- repo: chimera
+  subrepo: user
+  srcname: opentofu
   binname: opentofu
   visiblename: opentofu
   version: 1.12.6
-  origversion: 1.12.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.12.5
-  origversion: 1.12.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.12.4
-  origversion: 1.12.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.12.3
-  origversion: 1.12.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.12.2
-  origversion: 1.12.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_24_11
+  origversion: 1.12.6-r2
+  status: outdated
+  summary: Tool for building, changing and versioning infrastructure
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_25_11
   srcname: opentofu
   visiblename: opentofu
-  version: 1.8.7
+  version: 1.10.9
   origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
@@ -55,6 +21,37 @@
     - zowoq@github
   licenses:
     - MPL-2.0
+- repo: aur
+  srcname: opentofu-bin
+  binname: opentofu-bin
+  visiblename: opentofu-bin
+  version: 1.13.2
+  origversion: 1.13.2-2
+  status: outdated
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
+  maintainers:
+    - kingcrunch@aur
+  licenses:
+    - MPL2
+- repo: chocolatey
+  binname: opentofu
+  visiblename: OpenTofu
+  version: 1.12.6
+  origversion: null
+  status: outdated
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
+- repo: aur
+  srcname: opentofu-git
+  binname: opentofu-git
+  visiblename: opentofu-git
+  version: r32269.2e4f764
+  origversion: r32269.2e4f764-1
+  status: rolling
+  summary: OSS tool for building, changing, and versioning infrastructure safely and efficiently.
+  maintainers:
+    - kingcrunch@aur
+  licenses:
+    - MPL2
 - repo: alpine_3_19
   subrepo: community
   srcname: opentofu
@@ -79,17 +76,6 @@
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - MPL-2.0
-- repo: chimera
-  subrepo: user
-  srcname: opentofu
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.12.6
-  origversion: 1.12.6-r2
-  status: outdated
-  summary: Tool for building, changing and versioning infrastructure
   licenses:
     - MPL-2.0
 - repo: alpine_3_21
@@ -142,17 +128,6 @@
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - MPL-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: opentofu
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.13.9
-  origversion: 1.13.9-1
-  status: newest
-  summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
 - repo: alpine_edge
@@ -223,37 +198,6 @@
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
-- repo: aur
-  srcname: opentofu-bin
-  binname: opentofu-bin
-  visiblename: opentofu-bin
-  version: 1.13.2
-  origversion: 1.13.2-2
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
-  maintainers:
-    - kingcrunch@aur
-  licenses:
-    - MPL2
-- repo: aur
-  srcname: opentofu-git
-  binname: opentofu-git
-  visiblename: opentofu-git
-  version: r32269.2e4f764
-  origversion: r32269.2e4f764-1
-  status: rolling
-  summary: OSS tool for building, changing, and versioning infrastructure safely and efficiently.
-  maintainers:
-    - kingcrunch@aur
-  licenses:
-    - MPL2
-- repo: chocolatey
-  binname: opentofu
-  visiblename: OpenTofu
-  version: 1.12.6
-  origversion: null
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
 - repo: chocolatey
   binname: opentofu.portable
   visiblename: OpenTofu (Portable)
@@ -320,22 +264,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: opentofu
-  binnames:
-    - opentofu
-    - opentofu-debuginfo
-    - opentofu-debugsource
-  visiblename: opentofu
-  version: 1.6.2
-  origversion: 1.6.2-1.fc40
-  status: legacy
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: opentofu
   binnames:
@@ -349,6 +277,22 @@
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: opentofu
+  binnames:
+    - opentofu
+    - opentofu-debuginfo
+    - opentofu-debugsource
+  visiblename: opentofu
+  version: 1.6.2
+  origversion: 1.6.2-1.fc40
+  status: legacy
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_41
@@ -399,17 +343,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: opentofu
-  binname: opentofu
-  visiblename: opentofu
-  version: 1.13.2
-  origversion: 1.13.2-1
-  status: outdated
-  summary: Lets you declaratively manage your cloud infrastructure
-  licenses:
-    - MPL-2.0
 - repo: fedora_42
   subrepo: release
   srcname: opentofu
@@ -427,22 +360,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: opentofu
-  binnames:
-    - opentofu
-    - opentofu-debuginfo
-    - opentofu-debugsource
-  visiblename: opentofu
-  version: 1.11.5
-  origversion: 1.11.5-1.fc43
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: opentofu
   binnames:
@@ -453,6 +370,22 @@
   version: 1.10.3
   origversion: 1.10.3-2.fc43
   status: legacy
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: opentofu
+  binnames:
+    - opentofu
+    - opentofu-debuginfo
+    - opentofu-debugsource
+  visiblename: opentofu
+  version: 1.11.5
+  origversion: 1.11.5-1.fc43
+  status: outdated
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
@@ -495,7 +428,7 @@
   binname: opentofu
   visiblename: sysutils/opentofu
   version: 1.13.7
-  origversion: null
+  origversion: 1.13.7_1
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
   maintainers:
@@ -556,19 +489,6 @@
     - ISC
   categories:
     - app-admin
-- repo: nix_stable_24_05
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.7.1
-  origversion: null
-  status: outdated
-  summary: Tool for building, changing, and versioning infrastructure
-  maintainers:
-    - git@gmem.ca
-    - nickcao@nichi.co
-    - zowoq@github
-  licenses:
-    - MPL-2.0
 - repo: gentoo
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -738,10 +658,45 @@
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
-- repo: nix_stable_25_05
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: opentofu
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.13.2
+  origversion: 1.13.2-1
+  status: outdated
+  summary: Lets you declaratively manage your cloud infrastructure
+  licenses:
+    - MPL-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: opentofu
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.13.9
+  origversion: 1.13.9-1
+  status: newest
+  summary: Lets you declaratively manage your cloud infrastructure
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_24_05
   srcname: opentofu
   visiblename: opentofu
-  version: 1.9.1
+  version: 1.7.1
+  origversion: null
+  status: outdated
+  summary: Tool for building, changing, and versioning infrastructure
+  maintainers:
+    - git@gmem.ca
+    - nickcao@nichi.co
+    - zowoq@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_24_11
+  srcname: opentofu
+  visiblename: opentofu
+  version: 1.8.7
   origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
@@ -750,10 +705,10 @@
     - zowoq@github
   licenses:
     - MPL-2.0
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: opentofu
   visiblename: opentofu
-  version: 1.10.9
+  version: 1.9.1
   origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
@@ -984,6 +939,51 @@
   visiblename: opentofu
   version: 1.13.0
   origversion: 1.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.12.6
+  origversion: 1.12.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.12.5
+  origversion: 1.12.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.12.4
+  origversion: 1.12.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.12.3
+  origversion: 1.12.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.12.2
+  origversion: 1.12.2-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
