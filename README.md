@@ -33,27 +33,27 @@ Total: **517,474** lines of code across **4032** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.9` (2026-11-05)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 164
 
 ## Popularity
 
-- **Stars**: 30,793 · **Forks**: 1,422 · **Open issues**: 1,873 · **Contributors**: 214
+- **Stars**: 30,811 · **Forks**: 1,425 · **Open issues**: 1,876 · **Contributors**: 215
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 2360 · **Open PRs**: 64 · **Closed issues**: 1564 · **Open issues**: 309 · **Commits**: 33988
+- **Releases**: 113 · **Merged PRs**: 2362 · **Open PRs**: 68 · **Closed issues**: 1565 · **Open issues**: 311 · **Commits**: 33989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 7 | 69 | 17 | 10 | 23 | 56 |
-| last60d | 2026-09-12 | 11 | 115 | 23 | 43 | 51 | 118 |
-| 90d | 2026-08-13 | 14 | 177 | 25 | 61 | 59 | 204 |
-| last180d | 2026-05-15 | 24 | 363 | 30 | 164 | 81 | 458 |
-| 360d | 2025-11-16 | 42 | 710 | 38 | 322 | 113 | 857 |
-| last720d | 2024-11-21 | 77 | 1408 | 59 | 650 | 215 | 1621 |
+| 30d | 2026-10-13 | 7 | 68 | 21 | 11 | 25 | 57 |
+| last60d | 2026-09-13 | 11 | 117 | 27 | 44 | 53 | 119 |
+| 90d | 2026-08-14 | 14 | 175 | 29 | 62 | 61 | 205 |
+| last180d | 2026-05-16 | 24 | 365 | 34 | 165 | 83 | 459 |
+| 360d | 2025-11-17 | 42 | 708 | 42 | 320 | 115 | 858 |
+| last720d | 2024-11-22 | 77 | 1401 | 63 | 651 | 216 | 1622 |
 
 ## Release assets
 
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:30:48Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:28:43Z._
