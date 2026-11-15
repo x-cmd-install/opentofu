@@ -1,12 +1,29 @@
-- repo: scoop
-  subrepo: main
-  binname: opentofu
+- repo: homebrew
+  srcname: opentofu
   visiblename: opentofu
   version: 1.13.9
   origversion: null
   status: newest
+  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
+- repo: aur
+  srcname: opentofu-bin
+  binname: opentofu-bin
+  visiblename: opentofu-bin
+  version: 1.13.2
+  origversion: 1.13.2-2
+  status: outdated
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
+  maintainers:
+    - kingcrunch@aur
   licenses:
-    - MPL-2.0
+    - MPL2
+- repo: homebrew
+  srcname: opentofu
+  visiblename: opentofu
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: alpine_3_19
   subrepo: community
   srcname: opentofu
@@ -153,18 +170,6 @@
   summary: Lets you declaratively manage your cloud infrastructure
   licenses:
     - MPL-2.0
-- repo: aur
-  srcname: opentofu-bin
-  binname: opentofu-bin
-  visiblename: opentofu-bin
-  version: 1.13.2
-  origversion: 1.13.2-2
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure.
-  maintainers:
-    - kingcrunch@aur
-  licenses:
-    - MPL2
 - repo: aur
   srcname: opentofu-git
   binname: opentofu-git
@@ -357,22 +362,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: opentofu
-  binnames:
-    - opentofu
-    - opentofu-debuginfo
-    - opentofu-debugsource
-  visiblename: opentofu
-  version: 1.11.5
-  origversion: 1.11.5-1.fc43
-  status: outdated
-  summary: OpenTofu lets you declaratively manage your cloud infrastructure
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: opentofu
   binnames:
@@ -383,6 +372,22 @@
   version: 1.10.3
   origversion: 1.10.3-2.fc43
   status: legacy
+  summary: OpenTofu lets you declaratively manage your cloud infrastructure
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: opentofu
+  binnames:
+    - opentofu
+    - opentofu-debuginfo
+    - opentofu-debugsource
+  visiblename: opentofu
+  version: 1.11.5
+  origversion: 1.11.5-1.fc43
+  status: outdated
   summary: OpenTofu lets you declaratively manage your cloud infrastructure
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Unlicense
@@ -424,8 +429,8 @@
   srcname: sysutils/opentofu
   binname: opentofu
   visiblename: sysutils/opentofu
-  version: 1.13.7
-  origversion: 1.13.7_1
+  version: 1.13.8
+  origversion: null
   status: outdated
   summary: Tool for building, changing, and versioning infrastructure
   maintainers:
@@ -450,6 +455,24 @@
     - ISC
   categories:
     - app-admin
+- repo: liguros_develop
+  srcname: app-admin/opentofu
+  visiblename: app-admin/opentofu
+  version: 1.10.6
+  origversion: null
+  status: outdated
+  summary: The open source infrastructure as code tool
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - MPL-2.0
+    - MIT
+    - ISC
+  categories:
+    - app-admin
 - repo: gentoo
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -504,20 +527,6 @@
     - ISC
   categories:
     - app-admin
-- repo: homebrew
-  srcname: opentofu
-  visiblename: opentofu
-  version: 1.13.9
-  origversion: null
-  status: newest
-  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
-- repo: homebrew
-  srcname: opentofu
-  visiblename: opentofu
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Drop-in replacement for Terraform. Infrastructure as Code Tool
 - repo: liguros_stable
   srcname: app-admin/opentofu
   visiblename: app-admin/opentofu
@@ -596,24 +605,6 @@
   version: 1.9.1
   origversion: null
   status: legacy
-  summary: The open source infrastructure as code tool
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - MPL-2.0
-    - MIT
-    - ISC
-  categories:
-    - app-admin
-- repo: liguros_develop
-  srcname: app-admin/opentofu
-  visiblename: app-admin/opentofu
-  version: 1.10.6
-  origversion: null
-  status: outdated
   summary: The open source infrastructure as code tool
   maintainers:
     - williamh@gentoo.org
@@ -833,6 +824,15 @@
     - pkgsrc-users@netbsd.org
   categories:
     - net
+- repo: scoop
+  subrepo: main
+  binname: opentofu
+  visiblename: opentofu
+  version: 1.13.9
+  origversion: null
+  status: newest
+  licenses:
+    - MPL-2.0
 - repo: slackbuilds
   srcname: development/opentofu
   visiblename: development/opentofu
