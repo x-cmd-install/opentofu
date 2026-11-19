@@ -14,13 +14,13 @@ x install opentofu
 
 ## Code insight
 
-Total: **518,269** lines of code across **4036** files in the top 5 languages.
+Total: **518,898** lines of code across **4041** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 451,143 | 70,109 | 63,244 | 1940 |
+| Go | 451,746 | 70,334 | 63,367 | 1944 |
 | Json | 42,628 | 0 | 9 | 428 |
-| Hcl | 15,667 | 984 | 2,788 | 1609 |
+| Hcl | 15,693 | 984 | 2,791 | 1610 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
 | Sh | 437 | 140 | 104 | 35 |
 
@@ -33,27 +33,27 @@ Total: **518,269** lines of code across **4036** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.9` (2026-11-05)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-18
 - **Assets in release**: 164
 
 ## Popularity
 
-- **Stars**: 30,893 · **Forks**: 1,430 · **Open issues**: 1,881 · **Contributors**: 215
+- **Stars**: 30,920 · **Forks**: 1,435 · **Open issues**: 1,888 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 2367 · **Open PRs**: 69 · **Closed issues**: 1566 · **Open issues**: 315 · **Commits**: 33998
+- **Releases**: 113 · **Merged PRs**: 2374 · **Open PRs**: 66 · **Closed issues**: 1578 · **Open issues**: 310 · **Commits**: 34004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 6 | 58 | 20 | 9 | 23 | 42 |
-| last60d | 2026-09-18 | 10 | 116 | 26 | 42 | 55 | 121 |
-| 90d | 2026-08-19 | 14 | 169 | 30 | 56 | 65 | 189 |
-| last180d | 2026-05-21 | 24 | 366 | 35 | 162 | 86 | 459 |
-| 360d | 2025-11-22 | 40 | 706 | 43 | 319 | 118 | 853 |
-| last720d | 2024-11-27 | 75 | 1404 | 64 | 648 | 218 | 1627 |
+| 30d | 2026-10-20 | 6 | 57 | 18 | 12 | 24 | 50 |
+| last60d | 2026-09-20 | 10 | 123 | 23 | 51 | 53 | 129 |
+| 90d | 2026-08-21 | 12 | 171 | 27 | 63 | 63 | 197 |
+| last180d | 2026-05-23 | 24 | 370 | 32 | 171 | 81 | 467 |
+| 360d | 2025-11-24 | 40 | 710 | 40 | 330 | 113 | 861 |
+| last720d | 2024-11-29 | 75 | 1407 | 61 | 656 | 212 | 1631 |
 
 ## Release assets
 
@@ -226,7 +226,7 @@ Total: **518,269** lines of code across **4036** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **112** distros on [repology.org](https://repology.org/project/opentofu). **16** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/opentofu). **17** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:00:52Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:45:45Z._
