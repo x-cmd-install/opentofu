@@ -14,11 +14,11 @@ x install opentofu
 
 ## Code insight
 
-Total: **518,954** lines of code across **4041** files in the top 5 languages.
+Total: **519,132** lines of code across **4042** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 451,802 | 70,385 | 63,373 | 1944 |
+| Go | 451,980 | 70,425 | 63,411 | 1945 |
 | Json | 42,628 | 0 | 9 | 428 |
 | Hcl | 15,693 | 984 | 2,791 | 1610 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
@@ -38,22 +38,22 @@ Total: **518,954** lines of code across **4041** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,931 · **Forks**: 1,436 · **Open issues**: 1,889 · **Contributors**: 216
+- **Stars**: 30,945 · **Forks**: 1,437 · **Open issues**: 1,889 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 2375 · **Open PRs**: 67 · **Closed issues**: 1578 · **Open issues**: 311 · **Commits**: 34005
+- **Releases**: 113 · **Merged PRs**: 2376 · **Open PRs**: 69 · **Closed issues**: 1578 · **Open issues**: 311 · **Commits**: 34012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 51 | 19 | 11 | 25 | 51 |
-| last60d | 2026-09-21 | 10 | 123 | 24 | 48 | 54 | 130 |
-| 90d | 2026-08-22 | 12 | 172 | 28 | 63 | 64 | 198 |
-| last180d | 2026-05-24 | 24 | 371 | 33 | 171 | 82 | 468 |
-| 360d | 2025-11-25 | 40 | 707 | 41 | 328 | 113 | 862 |
-| last720d | 2024-11-30 | 75 | 1408 | 62 | 656 | 213 | 1632 |
+| 30d | 2026-10-22 | 4 | 50 | 21 | 10 | 24 | 58 |
+| last60d | 2026-09-22 | 10 | 122 | 25 | 48 | 54 | 137 |
+| 90d | 2026-08-23 | 12 | 173 | 30 | 63 | 64 | 205 |
+| last180d | 2026-05-25 | 24 | 370 | 35 | 161 | 82 | 475 |
+| 360d | 2025-11-26 | 39 | 707 | 43 | 327 | 112 | 869 |
+| last720d | 2024-12-01 | 75 | 1409 | 64 | 656 | 213 | 1639 |
 
 ## Release assets
 
@@ -247,4 +247,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:30:10Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:18:47Z._
