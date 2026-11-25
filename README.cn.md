@@ -38,7 +38,7 @@ x install opentofu
 
 ## 流行度
 
-- **Star**: 30,972 · **Fork**: 1,437 · **开放 issue**: 1,893 · **贡献者**: 216
+- **Star**: 30,987 · **Fork**: 1,439 · **开放 issue**: 1,893 · **贡献者**: 216
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install opentofu
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 53 | 20 | 9 | 27 | 40 |
-| last60d | 2026-09-25 | 11 | 119 | 25 | 47 | 57 | 124 |
-| 90d | 2026-08-26 | 13 | 170 | 30 | 59 | 66 | 176 |
-| last180d | 2026-05-28 | 24 | 361 | 35 | 159 | 85 | 460 |
-| 360d | 2025-11-29 | 40 | 711 | 42 | 327 | 116 | 861 |
-| last720d | 2024-12-04 | 76 | 1397 | 64 | 654 | 215 | 1633 |
+| 30d | 2026-10-26 | 5 | 50 | 19 | 8 | 27 | 40 |
+| last60d | 2026-09-26 | 11 | 119 | 25 | 47 | 56 | 124 |
+| 90d | 2026-08-27 | 13 | 165 | 30 | 59 | 65 | 176 |
+| last180d | 2026-05-29 | 24 | 359 | 35 | 155 | 85 | 460 |
+| 360d | 2025-11-30 | 40 | 711 | 42 | 327 | 116 | 861 |
+| last720d | 2024-12-05 | 76 | 1390 | 64 | 651 | 215 | 1627 |
 
 ## Release 资产
 
@@ -224,20 +224,6 @@ x install opentofu
 | [tofu_1.13.10_windows_arm64.zip.pem](https://github.com/opentofu/opentofu/releases/download/v1.13.10/tofu_1.13.10_windows_arm64.zip.pem) | 3.2 KiB | `native/win/arm64` |
 | [tofu_1.13.10_windows_arm64.zip.sig](https://github.com/opentofu/opentofu/releases/download/v1.13.10/tofu_1.13.10_windows_arm64.zip.sig) | 96 B | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/opentofu) 上共有 **113** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**49** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.13.9` | ⚠️ outdated |
-| Homebrew | `1.13.10` | ✅ latest |
-| Fedora rawhide | `1.12.3` | ⚠️ outdated |
-| Nix unstable | `1.13.9` | ⚠️ outdated |
-| Void | `1.13.9` | ⚠️ outdated |
-| Alpine edge | `1.13.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.13.9` | ⚠️ outdated |
-
 ## 改进这些数据
 
 opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `opentofu` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -247,4 +233,4 @@ opentofu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:59:11Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:47:41Z._
