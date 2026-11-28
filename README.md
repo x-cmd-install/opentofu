@@ -14,11 +14,11 @@ x install opentofu
 
 ## Code insight
 
-Total: **519,195** lines of code across **4042** files in the top 5 languages.
+Total: **519,295** lines of code across **4042** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 452,043 | 70,426 | 63,413 | 1945 |
+| Go | 452,143 | 70,431 | 63,429 | 1945 |
 | Json | 42,628 | 0 | 9 | 428 |
 | Hcl | 15,693 | 984 | 2,791 | 1610 |
 | Protobuf | 7,826 | 3,556 | 1,769 | 24 |
@@ -33,27 +33,27 @@ Total: **519,195** lines of code across **4042** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.10` (2026-11-23)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 164
 
 ## Popularity
 
-- **Stars**: 31,016 · **Forks**: 1,445 · **Open issues**: 1,895 · **Contributors**: 216
+- **Stars**: 31,025 · **Forks**: 1,450 · **Open issues**: 1,897 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 2381 · **Open PRs**: 72 · **Closed issues**: 1578 · **Open issues**: 317 · **Commits**: 34014
+- **Releases**: 114 · **Merged PRs**: 2382 · **Open PRs**: 75 · **Closed issues**: 1578 · **Open issues**: 319 · **Commits**: 34015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 5 | 45 | 21 | 8 | 26 | 41 |
-| last60d | 2026-09-28 | 11 | 117 | 28 | 46 | 58 | 125 |
-| 90d | 2026-08-29 | 12 | 158 | 33 | 58 | 67 | 177 |
-| last180d | 2026-05-31 | 24 | 360 | 38 | 155 | 87 | 461 |
-| 360d | 2025-12-02 | 40 | 712 | 44 | 326 | 118 | 862 |
-| last720d | 2024-12-07 | 73 | 1390 | 66 | 649 | 217 | 1623 |
+| 30d | 2026-10-29 | 5 | 34 | 24 | 7 | 27 | 42 |
+| last60d | 2026-09-29 | 11 | 118 | 31 | 44 | 60 | 126 |
+| 90d | 2026-08-30 | 12 | 159 | 36 | 58 | 69 | 178 |
+| last180d | 2026-06-01 | 24 | 358 | 41 | 130 | 89 | 462 |
+| 360d | 2025-12-03 | 40 | 712 | 47 | 326 | 120 | 863 |
+| last720d | 2024-12-08 | 73 | 1391 | 69 | 647 | 219 | 1624 |
 
 ## Release assets
 
@@ -233,4 +233,4 @@ Install metadata for opentofu lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:48:43Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:21:50Z._
